@@ -1,14 +1,14 @@
-Task 2 – Space Mission Investment Tracker
+_Task 2 – Space Mission Investment Tracker_
 
 An interactive Python CLI tool that simulates investments in different space mission assets such as SpaceX, Rocket Lab, and AstroSat.
 
-Features
+_Features_
 
 - Displays available space assets and prices
 - Calculates total investment cost
 - Exports portfolio summary to CSV
 
-Tools & Technologies
+_Tools & Technologies_
 
 - Python 3
 - CSV Module
@@ -19,18 +19,18 @@ Tools & Technologies
 
 -----
 
-Task 3 – Astronomical Image File Organizer
+_Task 3 – Astronomical Image File Organizer_
 
 A Python utility that automatically organizes astronomical image files into structured folders.
 
-Features
+_Features_
 
 - Checks whether the source directory exists
 - Creates target directories automatically
 - Safely moves image files
 - Uses Python's built-in file management libraries
 
-Tools & Technologies
+_Tools & Technologies_
 
 - Python 3
 - OS Module
